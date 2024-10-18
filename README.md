@@ -17,7 +17,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramVSA&layout=compact">
 
 ## Programming Languages
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 20px;">
     <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/>
     <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/>
     <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>
@@ -29,7 +29,7 @@
 </div>
 
 ## Technologies I Use
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 20px;">
     <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/>
     <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/>
     <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/>
