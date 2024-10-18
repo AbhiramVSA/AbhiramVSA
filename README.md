@@ -45,7 +45,7 @@ class WhoAmI:
     current_work = 'Writing code'
     hobbies = [
         'Basketball',
-        'P',
+        'Cooking',
         'Investing'
     ]
     
