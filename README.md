@@ -47,14 +47,14 @@ class WhoAmI:
     current_work = 'Writing code'
     hobbies = [
         'Basketball',
-        'Hackathons',
-        'Equity Investment'
+        'P',
+        'Investing'
     ]
     
     def getCity():
-        return Hyderabad_India()
+        return Bengaluru_India()
     
     def Ambitions():
-        LearnFrench()
+        Hackathons()
         BuildAIModels()
         MasterBackendDevelopment()
