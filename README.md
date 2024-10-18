@@ -2,7 +2,7 @@
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt='Awesome Matrix Code' align='right'/>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-abhiramadabala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhiramadabala/)](https://www.linkedin.com/in/abhiramadabala/) 
 [![Gmail Badge](https://img.shields.io/badge/-abhiramvsa7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhiramvsa7@gmail.com)](mailto:abhiramvsa7@gmail.com)
