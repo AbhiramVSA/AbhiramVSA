@@ -1,7 +1,7 @@
 # 💫 About Me:
 # 👋 Hi there! I'm Abhiram
 
-I'm a **Computer Science student**, currently focused on **AI model development** and **Flutter app development**. I have experience as a **Python developer** and had the opportunity to work on a **brain wave FFT algorithm** during my internship at **Makonis Software Solutions**. I'm passionate about combining innovation with creativity to solve real-world problems and build impactful solutions.
+I'm a **Computer Science student**, currently focused on **AI model development** and **Flutter app development**. I have experience as a **Python developer** and had the opportunity to work on a **brain wave FFT algorithm** during my internship. I'm passionate about combining innovation with creativity to solve real-world problems and build impactful solutions.
 
 ## 📚 Currently Learning  
 - **Flutter App Development**  
