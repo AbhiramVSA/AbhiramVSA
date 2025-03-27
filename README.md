@@ -1,11 +1,12 @@
 # 💫 About Me:
 # 👋 Hi there! I'm Abhiram
 
-I'm a **Computer Science student**, currently focused on **AI model development** and **Flutter app development**. I have experience as a **Python developer** and had the opportunity to work on a **Brain wave data analysis** during my internship. I'm passionate about combining innovation with creativity to solve real-world problems and build impactful solutions.
+I'm a Computer Science student specializing in AI model development and backend engineering. I have experience as a Python developer, working on brainwave data analysis during my internship, and building multi-agent AI systems. I'm passionate about leveraging AI and automation to create scalable, real-world solutions.
 
 ## 📚 Currently Learning  
-- **Flutter App Development**  
-- **AI Modeling**
+- AI-powered SaaS development
+- Multi-agent systems and orchestration
+- Backend optimization with FastAPI and Supabase
 
 ## ⚡ Fun Facts About Me
 - I enjoy **exploring new places and meeting people** 🤝
