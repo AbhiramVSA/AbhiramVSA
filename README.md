@@ -1,12 +1,28 @@
 # 💫 About Me:
 # 👋 Hi there! I'm Abhiram
 
-I'm a Computer Science student specializing in AI model development and backend engineering. I have experience as a Python developer, working on brainwave data analysis during my internship, and building multi-agent AI systems. I'm passionate about leveraging AI and automation to create scalable, real-world solutions.
+I'm a Computer Science student with a strong focus on AI model development and backend engineering, passionate about building scalable, production-ready systems that leverage AI and automation for real-world impact. My experience ranges from brainwave data analysis during an internship to designing and deploying multi-agent AI systems and distributed microservices architectures. I'm an agentic developer who thrives on tackling complex engineering challenges.
 
-## 📚 Currently Learning  
+## What do I bring to the table?
+
+- Scalable System Design: Proven ability to architect and implement highly available and performant backend systems capable of processing large volumes of data, as demonstrated by my work on distributed microservices with Go, Docker, and Kubernetes.
+
+- AI/ML Integration & Optimization: Expertise in developing and deploying AI-powered solutions, including RAG (Retrieval Augmented Generation) systems for cognitive search and automated report generation, with a focus on efficiency and real-time performance.
+
+- Backend Engineering: Strong proficiency in server-side programming, particularly with Python (FastAPI) and Go, and experience with database technologies like PostgreSQL (Supabase), ensuring robust and maintainable solutions.
+
+- DevOps & Automation: Hands-on experience with containerization (Docker), orchestration (Kubernetes), and deployment workflows (Google Cloud, Vercel), allowing for continuous integration and delivery of high-quality software.
+
+- Problem-Solving & Ownership: A self-driven learner with a passion for quality and a strong sense of ownership over the projects I build, from conception to deployment and monitoring.
+
+
+## Currently Learning
+
 - AI-powered SaaS development
-- Multi-agent systems and orchestration
-- Backend optimization with FastAPI and Supabase
+
+- Advanced multi-agent systems and orchestration
+
+- Backend optimization strategies with FastAPI and Supabase
 
 ## ⚡ Fun Facts About Me
 - I enjoy **exploring new places and meeting people** 🤝
