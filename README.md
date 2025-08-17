@@ -16,13 +16,21 @@ I'm a Computer Science student with a strong focus on AI model development and b
 - Problem-Solving & Ownership: A self-driven learner with a passion for quality and a strong sense of ownership over the projects I build, from conception to deployment and monitoring.
 
 
-## Currently Learning
+## Tech Stack
 
-- AI-powered SaaS development
+### Languages & Frameworks
+**Python** | **Java** | **C** | **C#** | **C++** | **JavaScript**
+**FastAPI** | **Django** | **.NET** | **ASP.NET** | **Node.js** | **React** | **Pydantic** | **Pydantic-AI**
 
-- Advanced multi-agent systems and orchestration
+***
 
-- Backend optimization strategies with FastAPI and Supabase
+### DevOps & Infrastructure
+**Docker** | **Git** | **GitHub Actions** | **PostgreSQL** | **Supabase** | **Firebase** | **MongoDB** | **SQL Plus** | **RESTful APIs** | **Microservices** | **MCP Servers**
+
+***
+
+### AI & ML
+**Generative AI** | **LLMs** | **Model Fine-Tuning** | **Retrieval-Augmented Generation (RAG)** | **Vector Databases** (FAISS, Weaviate) | **Autonomous Agents** | **Multi-Agent Systems** | **YOLOv11** | **Groq** | **Embeddings** | **FFT** | **BCI**
 
 ## ⚡ Fun Facts About Me
 - I enjoy **exploring new places and meeting people** 🤝
