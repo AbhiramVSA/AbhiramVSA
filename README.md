@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Abhiram Adabala</h1>
-<h3 align="center">I’m a Computer Science student passionate about building intelligent, scalable systems that merge AI, automation, and user experience. My work focuses on developing production-grade platforms that bring generative AI to life — from video content automation to personalized matchmaking recommenders.</h3>
+<h3 align="center"> I build things that are fun and make things automatic :)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiramvsa&label=Profile%20views&color=0e75b6&style=flat" alt="abhiramvsa" /> </p>
 
