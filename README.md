@@ -17,9 +17,9 @@ I build systems that move from prototype to production: agent workflows, RAG pip
 | [Luma](https://github.com/AbhiramVSA/Luma) | Media automation pipeline for script-to-audio, avatar video generation, and image-to-video workflows. | FastAPI, Next.js, ElevenLabs, HeyGen |
 | [Consensus-KoTH](https://github.com/AbhiramVSA/Consensus-KoTH) | Distributed cyber range and referee system for King of the Hill competitions using quorum-based ownership validation. | Python, Docker, HAProxy, Linux |
 | [Recon](https://github.com/AbhiramVSA/Recon) | Cybersecurity event platform for check-ins, teams, points, admin workflows, and partner operations. | FastAPI, React, Redis, SQLModel |
-| [VexiaSearch](https://github.com/AbhiramVSA/VexiaSearch) | Conversational RAG pipeline for searching PDF documents with semantic retrieval. | FastAPI, Supabase pgvector, OpenAI, LangChain |
-| [CGPA Calculator VIT-AP](https://github.com/AbhiramVSA/cgpa-calculator-vit-ap) | Student utility for calculating semester and cumulative GPA with a deployed web UI. | TypeScript, React, Vercel |
-| [Renewly](https://github.com/AbhiramVSA/renewly) | Subscription management platform with auth, recurring payments, renewal tracking, and reminders. | Node.js, Express, MongoDB |
+| [Traction AI](https://github.com/traction-ai) | AI-powered pitch deck and document builder for founders, spanning generation workflows, editing, and investor-ready presentation flows. | Next.js, FastAPI, PostgreSQL, OpenAI |
+| [Bantr v2](https://github.com/AbhiramVSA/bantr-v2) | Real-time AI debate platform with voice rooms, argument tracking, consensus analysis, and moderation workflows. | TypeScript, React, FastAPI, WebSocket |
+| [Kinesys CRM](https://github.com/Kinesys-CRM) | CRM platform for lead operations with real-time communication, calendar integration, and AI-powered voice-agent workflows. | FastAPI, PostgreSQL, Vue 3, LiveKit |
 
 ## Core Stack
 
