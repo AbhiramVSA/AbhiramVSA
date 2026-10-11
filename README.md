@@ -1,6 +1,17 @@
-# Abhiram Adabala
+<p align="center">
+  <img src="assets/profile-mark.png" alt="An indigo branching code path inside an orbit, with an amber node" width="150" />
+</p>
 
-AI engineer and full-stack developer focused on LLM agents, FastAPI backends, React/Next.js apps, and production automation.
+<h1 align="center">Abhiram Adabala</h1>
+
+<p align="center">AI engineer and full-stack developer focused on LLM agents, FastAPI backends, React/Next.js apps, and production automation.</p>
+
+<p align="center">
+  <a href="#current-work">Current Work</a> ·
+  <a href="#featured-projects">Featured Projects</a> ·
+  <a href="#core-stack">Core Stack</a> ·
+  <a href="#contact">Contact</a>
+</p>
 
 I build systems that move from prototype to production: agent workflows, RAG pipelines, voice and media automation, event platforms, and SaaS backends. I care about reliability, observability, clean APIs, and products that are usable beyond a demo.
 
