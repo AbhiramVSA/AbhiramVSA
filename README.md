@@ -1,47 +1,29 @@
 <p align="center">
-  <img src="assets/profile-mark.png" alt="An indigo branching code path inside an orbit, with an amber node" width="150" />
+  <img src="assets/profile-mark.png" alt="An indigo path branches to three nodes inside an open orbit, with one amber node" width="112" />
 </p>
 
 <h1 align="center">Abhiram Adabala</h1>
 
-<p align="center">AI engineer and full-stack developer focused on LLM agents, FastAPI backends, React/Next.js apps, and production automation.</p>
+<p align="center">AI engineer · full-stack developer</p>
 
 <p align="center">
-  <a href="#current-work">Current Work</a> ·
-  <a href="#featured-projects">Featured Projects</a> ·
-  <a href="#core-stack">Core Stack</a> ·
-  <a href="#contact">Contact</a>
+  <a href="https://abhiram-adab.tech/">Portfolio</a> ·
+  <a href="https://linkedin.com/in/abhiramadabala">LinkedIn</a> ·
+  <a href="mailto:abhiramvsa7@gmail.com">Email</a>
 </p>
 
-I build systems that move from prototype to production: agent workflows, RAG pipelines, voice and media automation, event platforms, and SaaS backends. I care about reliability, observability, clean APIs, and products that are usable beyond a demo.
+```text
+> hi, i am Abhiram
 
-## Current Work
+focus       AI agents / backend systems / product engineering
+stack       Python / TypeScript / FastAPI / React / PostgreSQL
+building    media automation / retrieval / voice / SaaS
+```
 
-- Lead Software Engineer at [Learnlynk](https://learnlynk.ca/) - building multi-tenant SaaS, AI-assisted admissions workflows, lead scoring, CRM automation, and secure backend infrastructure.
-- Contributing to [Traction AI](https://github.com/traction-ai) - AI-powered tooling for pitch decks and founder workflows.
-- Previously worked on media automation pipelines, enterprise RAG systems, and multimodal conversational AI.
-
-## Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [Luma](https://github.com/AbhiramVSA/Luma) | Media automation pipeline for script-to-audio, avatar video generation, and image-to-video workflows. | FastAPI, Next.js, ElevenLabs, HeyGen |
-| [Consensus-KoTH](https://github.com/AbhiramVSA/Consensus-KoTH) | Distributed cyber range and referee system for King of the Hill competitions using quorum-based ownership validation. | Python, Docker, HAProxy, Linux |
-| [Recon](https://github.com/AbhiramVSA/Recon) | Cybersecurity event platform for check-ins, teams, points, admin workflows, and partner operations. | FastAPI, React, Redis, SQLModel |
-| [Traction AI](https://github.com/traction-ai) | AI-powered pitch deck and document builder for founders, spanning generation workflows, editing, and investor-ready presentation flows. | Next.js, FastAPI, PostgreSQL, OpenAI |
-| [Bantr v2](https://github.com/AbhiramVSA/bantr-v2) | Real-time AI debate platform with voice rooms, argument tracking, consensus analysis, and moderation workflows. | TypeScript, React, FastAPI, WebSocket |
-| [Kinesys CRM](https://github.com/Kinesys-CRM) | CRM platform for lead operations with real-time communication, calendar integration, and AI-powered voice-agent workflows. | FastAPI, PostgreSQL, Vue 3, LiveKit |
-
-## Core Stack
-
-- Languages: Python, TypeScript, JavaScript, Go, Java, C++
-- AI and data: PyTorch, OpenAI, LangChain, PydanticAI, scikit-learn, Pandas, OpenCV
-- Backend: FastAPI, Django, Node.js, Express, REST, GraphQL
-- Frontend/mobile: React, Next.js, Flutter, React Native
-- Infrastructure: PostgreSQL, Supabase, Redis, MongoDB, Docker, AWS, GCP, Linux
-
-## Contact
-
-- Portfolio: [abhiram-adab.tech](https://abhiram-adab.tech/)
-- LinkedIn: [linkedin.com/in/abhiramadabala](https://linkedin.com/in/abhiramadabala)
-- Email: [abhiramvsa7@gmail.com](mailto:abhiramvsa7@gmail.com)
+<p align="center">
+  <a href="https://github.com/AbhiramVSA/Luma">Luma</a> ·
+  <a href="https://github.com/AbhiramVSA/Recon">Recon</a> ·
+  <a href="https://github.com/AbhiramVSA/Consensus-KoTH">Consensus KoTH</a> ·
+  <a href="https://github.com/AbhiramVSA/VexiaSearch">VexiaSearch</a> ·
+  <a href="https://github.com/AbhiramVSA/bantr-v2">Bantr v2</a>
+</p>
